@@ -178,5 +178,4 @@ synthetic test window here happens not to dip below the threshold.
 
 
 ## 8. The demo video
-
 https://drive.google.com/file/d/11dT_oyvKJe_vz_rCafgXmBTKY_qpTxIk/view?usp=sharing
