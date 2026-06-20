@@ -177,15 +177,6 @@ synthetic test window here happens not to dip below the threshold.
 
 
 
-## 8. For the demo video
+## 8. The demo video
 
-A natural walkthrough order: (1) explain the dataset/target above, including
-why DO and a 30-minute horizon were chosen, (2) run `python run_all.py` and
-narrate each phase's printed report as it appears — especially the
-resample-not-reindex point in cleaning and the ammonia×temperature feature
-in engineering, (3) open `outputs/metrics_table.csv` and the plots in
-`outputs/plots/` to discuss the trend evaluation, including the risk
-threshold line on the actual-vs-predicted chart, (4) open
-`outputs/feature_importance.csv` to discuss why DO's own recent history and
-time-of-day dominate — a defensible result matching real pond physics, not
-a flaw in the pipeline.
+https://drive.google.com/file/d/11dT_oyvKJe_vz_rCafgXmBTKY_qpTxIk/view?usp=sharing
