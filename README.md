@@ -172,6 +172,8 @@ system; this becomes meaningful once run on a real pond file, since the
 synthetic test window here happens not to dip below the threshold.
 <img width="2096" height="726" alt="image" src="https://github.com/user-attachments/assets/bd17fb8f-6878-43f0-8f35-620dd8ad7726" />
 <img width="2036" height="604" alt="image" src="https://github.com/user-attachments/assets/d974750c-e448-426b-bc89-fef74c8e5216" />
+<img width="1768" height="1202" alt="image" src="https://github.com/user-attachments/assets/a5f05774-cb62-4685-a29a-177482c7e163" />
+
 
 
 
