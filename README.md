@@ -170,6 +170,8 @@ risky (<3 mg/L) future moments the model correctly flagged in advance —
 which is the most decision-relevant metric for a fish-pond early-warning
 system; this becomes meaningful once run on a real pond file, since the
 synthetic test window here happens not to dip below the threshold.
+<img width="2096" height="726" alt="image" src="https://github.com/user-attachments/assets/bd17fb8f-6878-43f0-8f35-620dd8ad7726" />
+
 
 ## 8. For the demo video
 
